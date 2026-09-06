@@ -1,6 +1,6 @@
 import React, { useState, useRef } from 'react'
 
-const BACKEND_URL = 'http://localhost:5001/api/chat'
+const BACKEND_URL = 'https://ai-buddy-1-hvt6.onrender.com'
 
 const ChatManager = ({ children }) => {
 
