@@ -1,5 +1,14 @@
 # 🤖 AI Buddy
 
+> A modern AI-powered chat application built with React, Tailwind CSS, Node.js, Express, and Google's Gemini API.
+
+🚀 **Live Demo:** [https://ai-buddy-tau-six.vercel.app](https://ai-buddy-tau-six.vercel.app)  
+⚙️ **Backend API (Render):** [https://ai-buddy-1-hvt6.onrender.com](https://ai-buddy-1-hvt6.onrender.com)
+
+---
+
+# 🤖 AI Buddy
+
 > A modern AI-powered chat application built with React, Tailwind CSS, Node.js, Express and Google's Gemini API.
 
 AI Buddy is a ChatGPT/Gemini-inspired AI assistant that allows users to ask questions, receive AI-generated responses, manage multiple conversations, and organize their chat history through a clean and responsive interface.
